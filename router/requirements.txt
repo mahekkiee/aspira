@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+google-cloud-secret-manager
+google-cloud-firestore
+google-cloud-aiplatform
+vertexai
